@@ -1,5 +1,9 @@
 /* Place CSS styles here */
 body{
     font-family: 'Zilla Slab', serif;
-    background-color: pink;
+    background-image: url(../img/pointeshoes.JPG);
+    background: linear-gradient(
+        rgba(pink,0.80)
+        rgba(pink,0.80));
+    background-size: cover;
 }
